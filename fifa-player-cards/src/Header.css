@@ -1,0 +1,19 @@
+/* src/Header.css */
+.header {
+    margin-bottom: 20px;
+  }
+  
+  .header .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .header .nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #ffffff;
+  }
+  
+  .header .nav-link:hover {
+    color: #cccccc;
+  }
+  

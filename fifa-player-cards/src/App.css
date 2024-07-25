@@ -1,0 +1,21 @@
+/* src/App.css */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 20px 0;
+}
